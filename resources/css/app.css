@@ -1,0 +1,70 @@
+.profile img {
+    width: 100%;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.profile {
+    border-radius: 5px;
+}
+.picture {
+    padding: 0px !important;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.picture_info {
+    padding: 20px;
+    padding-bottom: 0px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: 0px !important;
+}
+.center_container {
+    padding: 0px !important;
+}
+.center_container h1 {
+    font-weight: bolder;
+}
+.album img {
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.album {
+    margin: 0px;
+    padding: 0px !important;
+}
+.picture_background {
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+.picture_bottom img {
+    width: 20px;
+    height: 20px;
+}
+.picture_title {
+    position: absolute;
+    color: white;
+    bottom: 1px;
+    left: 6px;
+    font-weight: bold;
+}
+.picture_title h2 {
+    font-weight: bolder;
+}
+.right_container p {
+    color: red;
+}
+.right_container {
+    align-self: flex-end;
+    padding-bottom: 10px;
+}
+.right_container h6 {
+    margin: 0 !important;
+}
+.featured img {
+    width: 20px;
+}
