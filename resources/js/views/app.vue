@@ -52,22 +52,8 @@
                         <p class="text-secondary">{{users.pictures[0].date}}</p>
                     </div>
                 </div>
-            </div>
-            <div class="picture col-md-3 bg-white mx-2 mb-3">
-                <div class="picture_background">
-                    <img v-bind:src='users.pictures[0].img'/>
-                    <div class="picture_title">
-                        <h2 class="h4">{{users.pictures[0].title}}</h2>
-                    </div>
-                </div>
-                <div class="picture_info">
-                    <p>{{users.pictures[0].description}}</p>
-                    <div class="picture_bottom d-flex justify-content-between">
-                        <p>{{users.pictures[0].featured}}</p>
-                        <p class="text-secondary">{{users.pictures[0].date}}</p>
-                    </div>
-                </div>
             </div>-->
+          
 
        
        
